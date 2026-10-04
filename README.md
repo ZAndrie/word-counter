@@ -42,3 +42,6 @@ Characters: 756
 
 ## Error handling
 Missing files, directories, and other read errors print a clear message and set a non-zero exit code.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/098d57e6-9213-4078-bc71-6007dc91f4b7" />
+
