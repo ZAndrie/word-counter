@@ -1,0 +1,11 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "description": "A small Node CLI that counts lines, words, and characters in text files",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}

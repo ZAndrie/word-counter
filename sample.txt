@@ -1,0 +1,13 @@
+Node.js lets you run JavaScript outside the browser. It is built on the V8 engine
+and is popular for building servers, tools, and command-line programs.
+
+A command-line interface, or CLI, is a program you control by typing commands.
+Many developer tools, such as git and npm, are CLIs. Writing your own CLI is a
+great way to practice reading input, processing data, and printing results.
+
+Reading files is a common task. Node offers both synchronous and asynchronous
+ways to do it. The promise-based API lets the program keep doing other work
+while the file is being read, which matters a lot for servers.
+
+Good programs also handle errors well. If a file is missing, the program should
+explain what went wrong instead of crashing with a long stack trace.
